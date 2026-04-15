@@ -11,7 +11,7 @@ Tutorial on Dimensionality Reduction for a presentation at 2026 Applied Machine 
 
 2. Random projections
 
-*   low computational way to preservedistances
+*   low computational way to preserve distances
 *   project to an extremely low dimension, disrupt distance structure, reveal hidden groupings as clusters in low dimensions
 
 
