@@ -28,6 +28,9 @@ Tutorial on Dimensionality Reduction for a presentation at 2026 Applied Machine 
 
   * preserve local and global structure combining several low-dimensional manifolds
 
+### Link to the Colab Notebook:
+https://colab.research.google.com/drive/1WvD4dNFZOrMB8RirEu1_-7LlmgRDCalu#scrollTo=mGssDk2JFzOD
+
 ### Link for the genomic dataset:
 https://drive.google.com/drive/folders/13tur5fxNEyYHb_hYY0LZSaJfYKKhR6X6?usp=drive_link
 
